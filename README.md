@@ -1,1 +1,2 @@
-# TechBlog
+# TechBlog Project
+Developed a blogging platform using Servlet and JSP, allowing users to share their thoughts and insights on various technology topics. The platform includes categorized sections such as Java Programming, Python Programming, Web Development, and more, enabling structured content sharing. Users can post articles, while others can read and engage with the content, fostering a knowledge-sharing community.
